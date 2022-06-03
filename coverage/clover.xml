@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1653491054221" clover="3.2.0">
+  <project timestamp="1653491054221" name="All files">
+    <metrics statements="25" coveredstatements="24" conditionals="7" coveredconditionals="4" methods="8" coveredmethods="8" elements="40" coveredelements="36" complexity="0" loc="25" ncloc="25" packages="1" files="2" classes="2"/>
+    <file name="fetch.js" path="/media/jesper/B0C8DB1DC8DAE120/ProgramData/Hemsidor/TDD/fetch.js">
+      <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="32" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="script.js" path="/media/jesper/B0C8DB1DC8DAE120/ProgramData/Hemsidor/TDD/script.js">
+      <metrics statements="14" coveredstatements="14" conditionals="7" coveredconditionals="4" methods="5" coveredmethods="5"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="27" count="3" type="cond" truecount="2" falsecount="1"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="3" type="stmt"/>
+      <line num="46" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="49" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
